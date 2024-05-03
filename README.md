@@ -5,7 +5,7 @@
 GetLumiaBSP (GLB) is an utility designed to facilitate the port of other NT based operating systems to newer Lumia phone models.
 The utility allows to separate the board support package (BSP) from the operating system image, and applies fixes through "care" features configurable individually.
 
-### Building
+## Building
 
 Install Microsoft Visual Studio with the .NET desktop application workload, and compile the tool in neutral.
 __Note: third party utilities are used for now to deal with compressed streams.__
